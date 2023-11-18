@@ -1,0 +1,21 @@
+#box {
+    background-color: blue;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-family: "kdam thmor pro", sans-serif;
+    font-family: "nanum pen script", cursive;
+}
+
+#desc {
+    font-size: 20px;
+}
+
+#name {
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 15px;
+}
